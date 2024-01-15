@@ -5,4 +5,4 @@
 <br>
 <img src="https://github.com/Josetelma/Website-Alcare/blob/main/assets/img/img5.JPG?raw=true">
 <img src="https://github.com/Josetelma/Website-Alcare/blob/main/assets/img/img%206.JPG?raw=true">
-<img src="https://github.com/Josetelma/Website-Alcare/blob/main/assets/img/img%206.JPG?raw=true">
+<img src="https://github.com/Josetelma/Website-Alcare/blob/main/assets/img/img%207.JPG?raw=true">
