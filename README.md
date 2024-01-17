@@ -1,4 +1,4 @@
-<h1>Loja-Virtual-Responsiva</h1>
+<h1>Loja-Virtual-Responsivo</h1>
 <br>
 
 <h2>Site de semijoias Virtual responsivo usando HTML CSS e JavaScript. Com animações em css, animações da biblioteca AOS e ao poder do CDN JavaScript..</h2>
